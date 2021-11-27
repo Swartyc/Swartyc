@@ -32,7 +32,7 @@
 
 ![Swartyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swartyc&show_icons=true&theme=jolly)
 
-<!--
+
 [![Swartyc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swartyc&theme=jolly)](https://github.com/Swartyc/github-readme-stats)
--->
+
 
