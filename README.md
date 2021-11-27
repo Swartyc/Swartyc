@@ -16,11 +16,26 @@
 
 <br/>
 
-## Most Used Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swartyc)](https://github.com/Swartyc/github-readme-stats)
+## Languages
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <br/>
 
-## GIT STATS
+## Stats
 
 ![Swartyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swartyc&show_icons=true&theme=jolly)
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
