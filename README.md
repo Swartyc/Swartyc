@@ -33,6 +33,6 @@
 ![Swartyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swartyc&show_icons=true&theme=jolly)
 
 
-[![Swartyc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swartyc&theme=jolly)](https://github.com/Swartyc/github-readme-stats)
+[![Swartyc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=342a9f18-bd04-46ac-91ce-7dfa7b72d5ae&theme=jolly)](https://github.com/Swartyc/github-readme-stats)
 
 
