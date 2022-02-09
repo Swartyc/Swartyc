@@ -14,12 +14,13 @@
 - 🥋 I love martial arts
 - 🎬 I like to create videos/ do audio-visual work
 
-<br/>
+<!-- <br/> -->
 
-## Languages
+<!-- ## Languages -->
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swartyc&langs_count=8&theme=jolly)](https://github.com/Swartyc/github-readme-stats)
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swartyc&layout=compact&langs_count=8&theme=jolly)](https://github.com/Swartyc/github-readme-stats)
