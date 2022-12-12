@@ -2,8 +2,7 @@
 <hr><br/>
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP, JavaScript, SQL, HTML, CSS and JAVA
-- 👯 I’m looking to collaborate on fullstack project
+- 🌱 I’m currently learning PHP (POO and with Symfony), JavaScript(VueJS), SQL(MYSQL, NOSQL, POSTGRESQL), HTML and (S)CSS
 - 📫 How to reach me: iSwartyc@gmx.fr
 
 <br/>
