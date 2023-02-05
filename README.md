@@ -75,7 +75,7 @@
 >
 > <p style="padding-bottom: 10px;"></p>
 
-> ## Mobile
+> ## Mobile 📱
 >
 > <p style="padding-bottom: 10px; display: flex; flex-wrap: wrap; gap: 10px;">
 > <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -92,7 +92,7 @@
 > <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 > </p>
 
-> ## Electronics
+> ## Electronics ⚡️
 >
 > <p style="padding-bottom: 10px; display: flex; flex-wrap: wrap; gap: 10px;">
 > <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -122,7 +122,7 @@
 > <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 > </p>
 
-> ## Devs' God
+> ## Devs' God 🔥
 >
 > <p style="padding-bottom: 10px; display: flex; flex-wrap: wrap; gap: 10px;">
 >  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
